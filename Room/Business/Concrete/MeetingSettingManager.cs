@@ -9,29 +9,29 @@ using Entities.Concrete;
 
 namespace Business.Concrete
 {
-    public class MeetingManager : IMeetingService
+    public class MeetingSettingManager : IMeetingSettingService
     {
-        public IDataResult<Meeting> GetById(int meetingId)
+        public IDataResult<MeetingSetting> GetById(int meetingSettingId)
         {
             throw new NotImplementedException();
         }
 
-        public IDataResult<List<Meeting>> GetList()
+        public IDataResult<List<MeetingSetting>> GetList()
         {
             throw new NotImplementedException();
         }
 
-        public IResult Add(Meeting meeting)
+        public IResult Add(MeetingSetting meetingSetting)
         {
             throw new NotImplementedException();
         }
 
-        public IResult Delete(Meeting meeting)
+        public IResult Delete(MeetingSetting meetingSetting)
         {
             throw new NotImplementedException();
         }
 
-        public IResult Update(Meeting meeting)
+        public IResult Update(MeetingSetting meetingSetting)
         {
             throw new NotImplementedException();
         }

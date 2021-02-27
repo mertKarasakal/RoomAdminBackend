@@ -551,11 +551,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\codes\\source\\repos\\Room\\Entities\\Entities.csproj",
+      "projectUniqueName": "D:\\codes\\git\\RoomAdminBackend\\Room\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "D:\\codes\\source\\repos\\Room\\Entities\\Entities.csproj",
+      "projectPath": "D:\\codes\\git\\RoomAdminBackend\\Room\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\hmkrs\\.nuget\\packages\\",
-      "outputPath": "D:\\codes\\source\\repos\\Room\\Entities\\obj\\",
+      "outputPath": "D:\\codes\\git\\RoomAdminBackend\\Room\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -575,8 +575,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\codes\\source\\repos\\Room\\Core\\Core.csproj": {
-              "projectPath": "D:\\codes\\source\\repos\\Room\\Core\\Core.csproj"
+            "D:\\codes\\git\\RoomAdminBackend\\Room\\Core\\Core.csproj": {
+              "projectPath": "D:\\codes\\git\\RoomAdminBackend\\Room\\Core\\Core.csproj"
             }
           }
         }

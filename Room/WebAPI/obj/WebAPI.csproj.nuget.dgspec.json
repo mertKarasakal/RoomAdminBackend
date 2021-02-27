@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\codes\\source\\repos\\Room\\WebAPI\\WebAPI.csproj": {}
+    "D:\\codes\\git\\RoomAdminBackend\\Room\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "D:\\codes\\source\\repos\\Room\\Business\\Business.csproj": {
+    "D:\\codes\\git\\RoomAdminBackend\\Room\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\codes\\source\\repos\\Room\\Business\\Business.csproj",
+        "projectUniqueName": "D:\\codes\\git\\RoomAdminBackend\\Room\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "D:\\codes\\source\\repos\\Room\\Business\\Business.csproj",
+        "projectPath": "D:\\codes\\git\\RoomAdminBackend\\Room\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\hmkrs\\.nuget\\packages\\",
-        "outputPath": "D:\\codes\\source\\repos\\Room\\Business\\obj\\",
+        "outputPath": "D:\\codes\\git\\RoomAdminBackend\\Room\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\codes\\source\\repos\\Room\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "D:\\codes\\source\\repos\\Room\\DataAccess\\DataAccess.csproj"
+              "D:\\codes\\git\\RoomAdminBackend\\Room\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\codes\\git\\RoomAdminBackend\\Room\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "D:\\codes\\source\\repos\\Room\\Core\\Core.csproj": {
+    "D:\\codes\\git\\RoomAdminBackend\\Room\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\codes\\source\\repos\\Room\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\codes\\git\\RoomAdminBackend\\Room\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\codes\\source\\repos\\Room\\Core\\Core.csproj",
+        "projectPath": "D:\\codes\\git\\RoomAdminBackend\\Room\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\hmkrs\\.nuget\\packages\\",
-        "outputPath": "D:\\codes\\source\\repos\\Room\\Core\\obj\\",
+        "outputPath": "D:\\codes\\git\\RoomAdminBackend\\Room\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -134,14 +134,14 @@
         }
       }
     },
-    "D:\\codes\\source\\repos\\Room\\DataAccess\\DataAccess.csproj": {
+    "D:\\codes\\git\\RoomAdminBackend\\Room\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\codes\\source\\repos\\Room\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "D:\\codes\\git\\RoomAdminBackend\\Room\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "D:\\codes\\source\\repos\\Room\\DataAccess\\DataAccess.csproj",
+        "projectPath": "D:\\codes\\git\\RoomAdminBackend\\Room\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\hmkrs\\.nuget\\packages\\",
-        "outputPath": "D:\\codes\\source\\repos\\Room\\DataAccess\\obj\\",
+        "outputPath": "D:\\codes\\git\\RoomAdminBackend\\Room\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -161,11 +161,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\codes\\source\\repos\\Room\\Core\\Core.csproj": {
-                "projectPath": "D:\\codes\\source\\repos\\Room\\Core\\Core.csproj"
-              },
-              "D:\\codes\\source\\repos\\Room\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\codes\\source\\repos\\Room\\Entities\\Entities.csproj"
+              "D:\\codes\\git\\RoomAdminBackend\\Room\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\codes\\git\\RoomAdminBackend\\Room\\Entities\\Entities.csproj"
               }
             }
           }
@@ -216,14 +213,14 @@
         }
       }
     },
-    "D:\\codes\\source\\repos\\Room\\Entities\\Entities.csproj": {
+    "D:\\codes\\git\\RoomAdminBackend\\Room\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\codes\\source\\repos\\Room\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\codes\\git\\RoomAdminBackend\\Room\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\codes\\source\\repos\\Room\\Entities\\Entities.csproj",
+        "projectPath": "D:\\codes\\git\\RoomAdminBackend\\Room\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\hmkrs\\.nuget\\packages\\",
-        "outputPath": "D:\\codes\\source\\repos\\Room\\Entities\\obj\\",
+        "outputPath": "D:\\codes\\git\\RoomAdminBackend\\Room\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -243,8 +240,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\codes\\source\\repos\\Room\\Core\\Core.csproj": {
-                "projectPath": "D:\\codes\\source\\repos\\Room\\Core\\Core.csproj"
+              "D:\\codes\\git\\RoomAdminBackend\\Room\\Core\\Core.csproj": {
+                "projectPath": "D:\\codes\\git\\RoomAdminBackend\\Room\\Core\\Core.csproj"
               }
             }
           }
@@ -277,14 +274,14 @@
         }
       }
     },
-    "D:\\codes\\source\\repos\\Room\\WebAPI\\WebAPI.csproj": {
+    "D:\\codes\\git\\RoomAdminBackend\\Room\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\codes\\source\\repos\\Room\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "D:\\codes\\git\\RoomAdminBackend\\Room\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "D:\\codes\\source\\repos\\Room\\WebAPI\\WebAPI.csproj",
+        "projectPath": "D:\\codes\\git\\RoomAdminBackend\\Room\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\hmkrs\\.nuget\\packages\\",
-        "outputPath": "D:\\codes\\source\\repos\\Room\\WebAPI\\obj\\",
+        "outputPath": "D:\\codes\\git\\RoomAdminBackend\\Room\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -304,8 +301,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\codes\\source\\repos\\Room\\Business\\Business.csproj": {
-                "projectPath": "D:\\codes\\source\\repos\\Room\\Business\\Business.csproj"
+              "D:\\codes\\git\\RoomAdminBackend\\Room\\Business\\Business.csproj": {
+                "projectPath": "D:\\codes\\git\\RoomAdminBackend\\Room\\Business\\Business.csproj"
               }
             }
           }

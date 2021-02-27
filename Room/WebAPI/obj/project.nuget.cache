@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k86R/3HW1AaW9IHNRprI8KLx317kDopX0YqHr1QN6BzcPf3e2SwHHitPRA1ltGJLA/n+12d64c07h5f+ZPsgsw==",
+  "dgSpecHash": "SRwIN5Ix4SPpBnWGBJx0fqu70P1xcYcABeWI4OKwhQVvWwDXxJERzXhJxtwPxYemGi5zpz5zlKP4t/cg0aT7Dw==",
   "success": true,
-  "projectFilePath": "D:\\codes\\source\\repos\\Room\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "D:\\codes\\git\\RoomAdminBackend\\Room\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hmkrs\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\hmkrs\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",

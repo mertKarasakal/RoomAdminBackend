@@ -416,7 +416,6 @@
       },
       "DataAccess/1.0.0": {
         "dependencies": {
-          "Core": "1.0.0",
           "Entities": "1.0.0",
           "EntityFramework": "6.4.4",
           "Microsoft.EntityFrameworkCore": "5.0.3",

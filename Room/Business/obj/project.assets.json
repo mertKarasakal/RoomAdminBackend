@@ -520,7 +520,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "Core": "1.0.0",
           "Entities": "1.0.0",
           "EntityFramework": "6.4.4",
           "Microsoft.EntityFrameworkCore": "5.0.3",
@@ -1691,11 +1690,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\codes\\source\\repos\\Room\\Business\\Business.csproj",
+      "projectUniqueName": "D:\\codes\\git\\RoomAdminBackend\\Room\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "D:\\codes\\source\\repos\\Room\\Business\\Business.csproj",
+      "projectPath": "D:\\codes\\git\\RoomAdminBackend\\Room\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\hmkrs\\.nuget\\packages\\",
-      "outputPath": "D:\\codes\\source\\repos\\Room\\Business\\obj\\",
+      "outputPath": "D:\\codes\\git\\RoomAdminBackend\\Room\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1715,8 +1714,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\codes\\source\\repos\\Room\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "D:\\codes\\source\\repos\\Room\\DataAccess\\DataAccess.csproj"
+            "D:\\codes\\git\\RoomAdminBackend\\Room\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\codes\\git\\RoomAdminBackend\\Room\\DataAccess\\DataAccess.csproj"
             }
           }
         }

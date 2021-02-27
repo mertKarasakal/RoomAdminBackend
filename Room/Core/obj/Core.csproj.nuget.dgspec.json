@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\codes\\source\\repos\\Room\\Core\\Core.csproj": {}
+    "D:\\codes\\git\\RoomAdminBackend\\Room\\Core\\Core.csproj": {}
   },
   "projects": {
-    "D:\\codes\\source\\repos\\Room\\Core\\Core.csproj": {
+    "D:\\codes\\git\\RoomAdminBackend\\Room\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\codes\\source\\repos\\Room\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\codes\\git\\RoomAdminBackend\\Room\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\codes\\source\\repos\\Room\\Core\\Core.csproj",
+        "projectPath": "D:\\codes\\git\\RoomAdminBackend\\Room\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\hmkrs\\.nuget\\packages\\",
-        "outputPath": "D:\\codes\\source\\repos\\Room\\Core\\obj\\",
+        "outputPath": "D:\\codes\\git\\RoomAdminBackend\\Room\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
