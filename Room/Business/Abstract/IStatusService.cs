@@ -15,5 +15,8 @@ namespace Business.Abstract
         IResult Add(Status status);
         IResult Delete(Status status);
         IResult Update(Status status);
+
+        IResult TransactionalOperation(Status status);
+
     }
 }

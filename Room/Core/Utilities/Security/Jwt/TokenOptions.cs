@@ -8,9 +8,18 @@ namespace Core.Utilities.Security.Jwt
 {
     public class TokenOptions
     {
+        /// <summary>
+        /// token'in kullanıcı kitlesi
+        /// </summary>
         public string Audience { get; set; }
+
+        /// <summary>
+        /// imzalayan
+        /// </summary>
         public string Issuer { get; set; }
+       
         public int AccessTokenExpiration { get; set; }
+       
         public string SecurityKey { get; set; }
     }
 }
